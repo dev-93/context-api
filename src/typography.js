@@ -11,22 +11,8 @@ const typography = new Typography({
             styles: ["400"],
         },
     ],
-    headerFontFamily: [
-        "Nunito",
-        "Helvetica Neue",
-        "Segoe UI",
-        "Helvetica",
-        "Arial",
-        "sans-serif",
-    ],
-    bodyFontFamily: [
-        "Open Sans",
-        "Helvetica Neue",
-        "Segoe UI",
-        "Helvetica",
-        "Arial",
-        "sans-serif",
-    ],
+    headerFontFamily: ["Nunito", "Helvetica Neue", "Segoe UI", "Helvetica", "Arial", "sans-serif"],
+    bodyFontFamily: ["Open Sans", "Helvetica Neue", "Segoe UI", "Helvetica", "Arial", "sans-serif"],
     includeNormalize: false,
 });
 
